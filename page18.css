@@ -1,0 +1,83 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+}
+nav{
+	width: 100%;
+	display: inline-block;
+}
+nav ul{
+	text-align: center;
+}
+nav ul li{
+	display: inline-block;
+    line-height: 60px;
+	margin: 0 10px;	
+}
+nav ul li a{
+	color: rgb(31, 31, 31);
+    font-size: 20px;
+	padding: 7px 13px;
+}
+.showcase{
+    background-image: url(img/1img.jpg);
+    height:300px ;
+}
+.lorem h1{
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+.lorem p{
+	text-align: center;
+	font-size: 12px;
+}
+.box{
+	margin-top: 30px;
+}
+.box p{
+	font-size: 10px;
+}
+.box td p{
+	margin: 30px;
+}
+ .box-1 img{
+     margin-left: 30px;
+}
+ .box-2 img{
+     margin-left: 30px;
+}
+ .box-3 img{
+     margin-left: 30px;
+}
+ .box-4 img{
+     margin-left: 30px;
+}
+.seebut button{
+	width: 260px;
+	height: 40px;
+	background: white;
+	border-radius: 3px;
+	font-size: 15px;
+	float: right;
+	margin-right: 40px;
+}
+.box2 img{
+	margin-left: 20px;
+	margin-top: 70px;
+}
+.box2 p{
+	width: 500px;
+	font-size: 12px;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+.box2 button{
+     padding: 8px;
+	font-size: 12px;
+	border-radius: 4px;
+	margin-left: 30px;
+	margin-top: 15px;
+}
