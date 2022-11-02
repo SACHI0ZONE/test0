@@ -1,0 +1,53 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.lorem{
+	float: left;
+	width: 50%;
+}
+.formtit h1{
+	text-align: center;
+}
+.form{
+	width: 50%;
+	float: right;
+    padding: 30px;
+}
+form {border: 3px solid #f1f1f1;}
+
+
+
+.all hr{
+	margin-bottom: 50PX;
+}
+.lorem hr{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.lorem p{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.formtit hr{
+	margin-bottom: 50px;
+}
+.form{
+	font-size: 20px;
+}
+.form button{
+	background: black;
+	color: white;
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+}
+.submitbtn:hover{
+	background-color: rgba(0,0,0,0.8);
+}
+.file:hover{
+	background-color: yellowgreen;
+
+}
